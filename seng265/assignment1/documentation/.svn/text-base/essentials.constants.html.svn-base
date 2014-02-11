@@ -1,0 +1,37 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><head><title>Python: module essentials.constants</title>
+</head><body bgcolor="#f0f0f8">
+
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="heading">
+<tr bgcolor="#7799ee">
+<td valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial">&nbsp;<br><big><big><strong><a href="essentials.html"><font color="#ffffff">essentials</font></a>.constants</strong></big></big></font></td
+><td align=right valign=bottom
+><font color="#ffffff" face="helvetica, arial"><a href=".">index</a><br><a href="file:/home/zee/Documents/seng265/CHECKOUT/assignment1/essentials/constants.py">/home/zee/Documents/seng265/CHECKOUT/assignment1/essentials/constants.py</a></font></td></tr></table>
+    <p><tt>Author:&nbsp;Muhammad&nbsp;Zubair<br>
+Student&nbsp;ID:&nbsp;V00757068<br>
+A&nbsp;file&nbsp;with&nbsp;all&nbsp;the&nbsp;error&nbsp;messages</tt></p>
+<p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#55aa55">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Data</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#55aa55"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><strong>ADD_1</strong> = 'Usage 1: add &lt;line-number&gt; "New Text"'<br>
+<strong>ADD_2</strong> = 'Usage 2: add &lt;line-number&gt; &lt;word-number&gt; "New Text"'<br>
+<strong>DELETE_1</strong> = 'Usage 1: delete &lt;line-number&gt;'<br>
+<strong>DELETE_2</strong> = 'Usage 2: delete &lt;smaller-line-number&gt; &lt;greater-line-number&gt;'<br>
+<strong>NO_FILE</strong> = 'Error: No such file.'<br>
+<strong>OPEN_1</strong> = 'Usage: open &lt;path-to-input-file&gt;'<br>
+<strong>PRINT_1</strong> = 'Usage 1: print'<br>
+<strong>PRINT_2</strong> = 'Usage 2: print &lt;line-number&gt;'<br>
+<strong>PRINT_3</strong> = 'Usage 3: print &lt;smaller-line-number&gt; &lt;greater-line-number&gt;'<br>
+<strong>QUIT_1</strong> = 'Usage: quit'<br>
+<strong>REPLACE_1</strong> = 'Usage 1: replace &lt;line-number&gt; "New Text"'<br>
+<strong>REPLACE_2</strong> = 'Usage 2: replace &lt;line-number&gt; "New Text"'<br>
+<strong>SAVE_1</strong> = 'Usage 1: save'<br>
+<strong>SAVE_2</strong> = 'Usage 2: save &lt;path-to-output-file&gt;'<br>
+<strong>WRONG</strong> = 'Error: Wrong command format.'</td></tr></table>
+</body></html>
